@@ -1,13 +1,58 @@
-h1 {
+.head {
     font-weight: 900;
-    font-size: 50px;
+    font-size: 100px;
+    color: aliceblue;
+}
+
+.banner-post {
+    position: absolute;
+    bottom: 100px;
+    left: 250px;
+}
+
+.vejal {
+    font-size: 20px;
+    color: rgb(34, 245, 15);
+    line-height: 30px;
 }
 
 a {
     text-decoration: none;
-    background-color: orange;
+    background-color: crimson;
     color: aliceblue;
     padding: 10px;
     position: relative;
     top: 40px;
+}
+
+.class1 {
+    display: flex;
+    position: relative;
+    left: 50px;
+    margin: 5%;
+}
+
+.class2 {
+    position: relative;
+    left: 100px;
+}
+
+.class3 {
+    display: flex;
+    position: relative;
+    left: 50px;
+    margin: 5%;
+}
+
+.class4 {
+    position: relative;
+    left: 100px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.class6 {
+    text-align: center;
 }
