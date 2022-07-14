@@ -65,9 +65,41 @@ h1 {
 }
 
 .class8 {
-    width: 320px;
-    padding: 10px;
-    border: 5px solid gray;
-    margin: 0;
-    box-shadow: turquoise;
+    width: 400px;
+    background-color: gray;
+    border: 2px solid greenyellow;
+    box-shadow: 5px 10px #e06040;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.class10 {
+
+    position: absolute;
+    position: right;
+
+}
+
+.class11 {
+    position: relative;
+    left: 80px;
+}
+
+.class12 {
+    position: relative;
+    left: 160px;
+}
+
+.class13 {
+    position: relative;
+    left: 220px;
+}
+
+.class14 {
+    text-align: center;
+}
+
+.class15 {
+    font-size: 80px;
 }
