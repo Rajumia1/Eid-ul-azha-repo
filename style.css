@@ -41,12 +41,12 @@ a {
     display: flex;
     position: relative;
     left: 50px;
-    margin: 5%;
+    margin: 2%;
 }
 
 .class4 {
     position: relative;
-    left: 100px;
+    left: 60px;
 }
 
 h1 {
@@ -102,4 +102,42 @@ h1 {
 
 .class15 {
     font-size: 80px;
+}
+
+.class17 {
+    width: 307px;
+    padding: 5%;
+    font-style: italic;
+
+
+}
+
+.class16 {
+    width: 307px;
+    height: 410px;
+    border: 1px solid red;
+    margin: 5%;
+}
+
+.class18 {
+    position: relative;
+    bottom: -1px;
+
+
+}
+
+.class20 {
+    display: flex;
+    position: relative;
+    left: 60px;
+}
+
+.class21 {
+    text-align: center;
+    background-color: black;
+    font-style: italic;
+}
+
+.class22 {
+    color: azure;
 }
